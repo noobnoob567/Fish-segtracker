@@ -1,0 +1,152 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "fish1",
+      "points": [
+        [
+          254.5317919075144,
+          281.9670453790445
+        ],
+        [
+          344.59770114942523,
+          281.9670453790445
+        ],
+        [
+          344.59770114942523,
+          575.8045977011494
+        ],
+        [
+          254.5317919075144,
+          575.8045977011494
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "fish2",
+      "points": [
+        [
+          415.0,
+          171.52379781084727
+        ],
+        [
+          613.1041692288773,
+          171.52379781084727
+        ],
+        [
+          613.1041692288773,
+          449.89361702127655
+        ],
+        [
+          415.0,
+          449.89361702127655
+        ]
+      ],
+      "group_id": 2,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "fish3",
+      "points": [
+        [
+          451.17021276595744,
+          321.17021276595756
+        ],
+        [
+          744.7872340425531,
+          321.17021276595756
+        ],
+        [
+          744.7872340425531,
+          435.0
+        ],
+        [
+          451.17021276595744,
+          435.0
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "mouth",
+      "points": [
+        [
+          278.961038961039,
+          290.19480519480516
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "mouth",
+      "points": [
+        [
+          430.2298850574712,
+          444.7701149425287
+        ]
+      ],
+      "group_id": 2,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "mouth",
+      "points": [
+        [
+          456.66666666666663,
+          415.4597701149425
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "left pectoral fin",
+      "points": [
+        [
+          260.64220183486236,
+          375.1376146788991
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "frame_000000.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280,
+  "text": ""
+}
